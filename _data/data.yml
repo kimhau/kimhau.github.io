@@ -58,7 +58,7 @@ experiences:
     - role: Soft Engineer (Android)
       time: Jan 2017 - Present
       company: Digital Forge Pte. Ltd.
-      details: |+\n
+      details: |+
         Android (Java/ Kotlin)
           - Developing a Game Listing app
           - Developed prototype eWallet app for Rapyd which consumed their backend SDK. Write Webhook trigger using Firebase cloud function.
