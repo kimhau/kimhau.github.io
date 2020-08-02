@@ -51,27 +51,38 @@ education:
       university: Universiti Sains Malaysia
       time: Sep 2012 – Aug 2016
       details: |
-        Major: Intelligent Systems
-        Elective: Information System Engineering
-        Cumulative GPA: 3.44 / 4.00
+      Cumulative GPA: 3.44 / 4.00
+        - Major: Intelligent Systems
+        - Elective: Information System Engineering
+    - degree: STPM (Malaysian Higher School Certificate)
+      university: Sekolah Menengah Kebangsaan Mentakab
+      time: 2010 - 2011
+      details: |
+        Cumulative GPA: 3.33/4.00
+     - degree: SPM (Malaysian Certificate of Education)
+      university: Sekolah Menengah Kebangsaan Hwa Lian
+      time: 2005 - 2009
+      details: |
+        Result: 11 A’s, 1B+
+        
 experiences:
     - role: Soft Engineer (Android)
       time: Jan 2017 - Present
       company: Digital Forge Pte. Ltd.
       details: |+
-        Android (Java/ Kotlin)
+        - Android (Java/ Kotlin)
           - Developing a Game Listing app
           - Developed prototype eWallet app for Rapyd which consumed their backend SDK. Write Webhook trigger using Firebase cloud function.
           - Developed a Shopping app which transform user mall experience.
           - Assist in integrated foot step counter and sync Google fit data to a health care app.
           - Write unit test cases using Mockito and Robolectric
           - Write UI test using Espresso\n 
-        React Native
+        - React Native
           - Developed an online shopping app for a Myanmar's trendy online marketplace
           - Developed a membership reward app for a premium grocer
           - Developed a mobile POS which allow waiter to carry an iPad to take order and collect payment.
           - Developed a food ordering app which use by customer in restaurant to speed up food ordering process.\n
-        Others
+        - Others
           - Write cloud functions to trigger firestore update, handle webhook, push notification or sent SMS
           - Use JIRA for project management and issue tracking.
           - Use Visual Studio App Center for continuous integration and continuous delivery (CICD)
