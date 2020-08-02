@@ -205,6 +205,19 @@ p {
         margin-bottom: 5px;
 	color: darken($theme-color, 15%);
     }
+    .project-tag {
+        font-size: 10px;
+        font-weight: 400;
+        margin-left: 5px;
+        background: #3AAA64;
+        color: #fff;
+        text-align: center;
+        border-radius: .25em;
+        padding: .25em .3em .3em;
+        line-height: 1;
+        white-space: nowrap;
+        vertical-align: middle;
+      }
     .projects-section {
         .intro {
             margin-bottom: 30px;

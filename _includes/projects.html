@@ -26,6 +26,11 @@
         {{ project.title }}
         {% endif %}
       </span>
+      
+      {% if project.tag %}
+      <span class="project-tag">>{{ project.tag }}</span>
+      <br>
+      {% endif %}
 
       {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
