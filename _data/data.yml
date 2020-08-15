@@ -76,12 +76,12 @@ experiences:
           - Developed a Shopping app which transform user mall experience.
           - Assist in integrated foot step counter and sync Google fit data to a health care app.
           - Write unit test cases using Mockito and Robolectric
-          - Write UI test using Espresso\n 
+          - Write UI test using Espresso
         - React Native
           - Developed an online shopping app for a Myanmar's trendy online marketplace
           - Developed a membership reward app for a premium grocer
           - Developed a mobile POS which allow waiter to carry an iPad to take order and collect payment.
-          - Developed a food ordering app which use by customer in restaurant to speed up food ordering process.\n
+          - Developed a food ordering app which use by customer in restaurant to speed up food ordering process.
         - Others
           - Write cloud functions to trigger firestore update, handle webhook, push notification or sent SMS
           - Use JIRA for project management and issue tracking.
