@@ -54,16 +54,6 @@ education:
         Cumulative GPA: 3.44 / 4.00
           - Major: Intelligent Systems
           - Elective: Information System Engineering
-    # - degree: STPM (Malaysian Higher School Certificate)
-    #   university: Sekolah Menengah Kebangsaan Mentakab
-    #   time: 2010 - 2011
-    #   details: |
-    #     Cumulative GPA: 3.33/4.00
-    #  - degree: SPM (Malaysian Certificate of Education)
-    #   university: Sekolah Menengah Kebangsaan Hwa Lian
-    #   time: 2005 - 2009
-    #   details: |
-    #     Result: 11 A’s, 1B+
         
 experiences:
     - role: Software Engineer (Android)
