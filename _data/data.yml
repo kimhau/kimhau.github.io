@@ -55,30 +55,30 @@ education:
           - Major: Intelligent Systems
           - Elective: Information System Engineering
         
-experiences:
-    - role: Lead Developer
-      time: Jan 2017 - Present
-      company: Digital Forge Pte. Ltd.
-      details: |+
-        - Flutter
-          - Developing a Golf Training app which use Wrnch as a service to analyses golfer movement. Use Cognito for authorization and authentication, S3 to store video, Dynamo DB as database, Lambda and AWS API Gateway as cloud function, FFmpeg library to process video.
-        - Android (Java/ Kotlin)
-# - Developing a Game Listing app (acchieved)
-          - Developed prototype eWallet app which featured in currency exchange for an fintech company named Rapyd. Use Firebase authentication for authorization and authentication, use Twilio for SMS service, Firestore as database write Webhook trigger using Firebase cloud function, use Firebase cloud Messaging for push notification services.
-          - Maintained two existing ecommerce app. (enhance app security, prevent app running on root device, implement SSL Pinning, store keys in c++)
-          - Developed a Shopping app which transform user mall experience.
-          - Assist in integrated foot step counter and sync Google fit data to a health care app.
+# experiences:
+#     - role: Software Engineer (Android)
+#       time: Jan 2017 - Present
+#       company: Digital Forge Pte. Ltd.
+#       details: |+
+#         - Flutter
+#           - Developing a Golf Training app which use Wrnch as a service to analyses golfer movement. Use Cognito for authorization and authentication, S3 to store video, Dynamo DB as database, Lambda and AWS API Gateway as cloud function, FFmpeg library to process video.
+#         - Android (Java/ Kotlin)
+# # - Developing a Game Listing app (acchieved)
+#           - Developed prototype eWallet app which featured in currency exchange for an fintech company named Rapyd. Use Firebase authentication for authorization and authentication, use Twilio for SMS service, Firestore as database write Webhook trigger using Firebase cloud function, use Firebase cloud Messaging for push notification services.
+#           - Maintained two existing ecommerce app. (enhance app security, prevent app running on root device, implement SSL Pinning, store keys in c++)
+#           - Developed a Shopping app which transform user mall experience.
+#           - Assist in integrated foot step counter and sync Google fit data to a health care app.
   
-        - React Native
-          - Developed an online shopping app named Mogozay for a Myanmar's trendy online marketplace
-          - Developed a membership reward app for a premium grocer
-          - Developed a mobile POS which allow waiter to carry an iPad to take order and collect payment.
-          - Developed a food ordering app which use by customer in restaurant to speed up food ordering process.
-        - Others
-          - Create backend using firebase/AWS 
-          - Use JIRA for project management and issue tracking.
-          - Use GitHub/ Gitlab as primary version control tool
-          - Use POSTMAN, Chales Proxy for API testing (restful and soap)
+#         - React Native
+#           - Developed an online shopping app named Mogozay for a Myanmar's trendy online marketplace
+#           - Developed a membership reward app for a premium grocer
+#           - Developed a mobile POS which allow waiter to carry an iPad to take order and collect payment.
+#           - Developed a food ordering app which use by customer in restaurant to speed up food ordering process.
+#         - Others
+#           - Create backend using firebase/AWS 
+#           - Use JIRA for project management and issue tracking.
+#           - Use GitHub/ Gitlab as primary version control tool
+#           - Use POSTMAN, Chales Proxy for API testing (restful and soap)
 projects:
     title: Projects
     # intro: >
