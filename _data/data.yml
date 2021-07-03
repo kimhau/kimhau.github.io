@@ -91,7 +91,7 @@ projects:
         link: "https://github.com/kimhau/4DResults"
         tag: "Open Source Project"
         tagline: "A demo project for Malaysia's 4D results using Dagger Hilt, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture."
-      assignments:
+     
       - title: Bitbuckets
         link: "https://github.com/kimhau/Bitbuckets"
         tag: "Open Source Project"
