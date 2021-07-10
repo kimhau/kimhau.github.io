@@ -98,7 +98,7 @@ projects:
         tagline: "Android bitbucket list using Hilt, Coroutines, Flow, ViewModel based on MVVM architecture."
 
       - title: Flutter Bitbuckets
-        link: "https://github.com/kimhau/Bitbuckets"
+        link: "https://github.com/kimhau/Flutter-Bitbuckets"
         tag: "Open Source Project"
         tagline: "Flutter(Android/ios) bitbucket list using GetX."
 
