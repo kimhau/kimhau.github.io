@@ -56,8 +56,15 @@ education:
           - Elective: Information System Engineering
         
 experiences:
+    - role: Software Engineer (mobile)
+      time: Oct 2021 - Present
+      company: IBM
+      details: |+
+        - React Native
+          - Developed an mobile application which use mobile device manager solution to enable/disable camera.
+  
     - role: Software Engineer (Android)
-      time: Jan 2017 - Present
+      time: Jan 2017 - Sep 2022
       company: Digital Forge Pte. Ltd.
       details: |+
         - Flutter
