@@ -3,111 +3,114 @@
 #
 
 sidebar:
-    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: false # set to False if you want education in main section instead of in sidebar
+  about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: false # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Kim Hau Wong
-    tagline: Android Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Kim Hau Wong
+  tagline: Mobile Developer
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: mimikim3718@gmail.com
-    phone: +65 9053 2343
-    # website: blog.webjeda.com #do not add http://
-    linkedin: kimhau
-    github: kimhau
-    # telegram: # add your nickname without '@' sign
-    # gitlab:
-    # bitbucket:
-    # twitter: '@webjeda'
-    # stack-overflow: # Number/Username, e.g. 123456/alandoe
-    # codewars:
-    # goodreads: # Number-Username, e.g. 123456-alandoe
+  # Sidebar links
+  email: mimikim3718@gmail.com
+  phone: +65 9053 2343
+  # website: blog.webjeda.com #do not add http://
+  linkedin: kimhau
+  github: kimhau
+  # telegram: # add your nickname without '@' sign
+  # gitlab:
+  # bitbucket:
+  # twitter: '@webjeda'
+  # stack-overflow: # Number/Username, e.g. 123456/alandoe
+  # codewars:
+  # goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Professional
+  languages:
+    - idiom: English
+      level: Professional
 
-      - idiom: Mandarin
-        level: native
+    - idiom: Mandarin
+      level: native
 
-
-    interests:
-      - item: Gaming
-        link:
-      - item: Traveling
-        link:
+  interests:
+    - item: Gaming
+      link:
+    - item: Traveling
+      link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Hello there!
-      My name is Wong Kim Hau from Malaysia. 
-      I have been residing in Singapore.
-      Determined, focused and organised are 3 words I would use to describe myself as a Android Engineer.
+  title: Career Profile
+  summary: |
+    Hello there!
+    My name is Wong Kim Hau from Malaysia. 
+    I have been residing in Singapore.
+    Determined, focused and organised are 3 words I would use to describe myself as a Android Engineer.
 education:
-    - degree: Bachelor of Computer Science (Honours)
-      university: Universiti Sains Malaysia
-      time: Sep 2012 – Aug 2016
-      details: |
-        Cumulative GPA: 3.44 / 4.00
-          - Major: Intelligent Systems
-          - Elective: Information System Engineering
-        
-experiences:
-    - role: Software Engineer (mobile)
-      time: Oct 2021 - Present
-      company: IBM
-      details: |+
-        - React Native
-          - Developed an mobile application which use mobile device manager solution to enable/disable camera.
-  
-    - role: Software Engineer (Android)
-      time: Jan 2017 - Sep 2022
-      company: Digital Forge Pte. Ltd.
-      details: |+
-        - Flutter
-          - Developing a Golf Training app which use Wrnch as a service to analyses golfer movement. Use Cognito for authorization and authentication, S3 to store video, Dynamo DB as database, Lambda and AWS API Gateway as cloud function, FFmpeg library to process video.
-        
-        - Android (Java/ Kotlin)
-          - Developed prototype eWallet app which featured in currency exchange for an fintech company named Rapyd. Use Firebase authentication for authorization and authentication, use Twilio for SMS service, Firestore as database write Webhook trigger using Firebase cloud function, use Firebase cloud Messaging for push notification services.
-          - Maintained two existing ecommerce app. (enhance app security, prevent app running on root device, implement SSL Pinning, store keys in c++)
-          - Developed a Shopping app which transform user mall experience.
-          - Assist in integrated foot step counter and sync Google fit data to a health care app.
-  
-        - React Native
-          - Developed an online shopping app named Mogozay for a Myanmar's trendy online marketplace
-          - Developed a membership reward app for a premium grocer
-          - Developed a mobile POS which allow waiter to carry an iPad to take order and collect payment.
-          - Developed a food ordering app which use by customer in restaurant to speed up food ordering process.
-        
-        - Others
-          - Create backend using firebase/AWS 
-          - Use JIRA for project management and issue tracking.
-          - Use GitHub/ Gitlab as primary version control tool
-          - Use POSTMAN, Chales Proxy for API testing (restful and soap)
-projects:
-    title: Projects
-    # intro: >
-    #   You can list your side projects or open source libraries in this
-    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: 4DResults
-        link: "https://github.com/kimhau/4DResults"
-        tag: "Open Source Project"
-        tagline: "A demo project for Malaysia's 4D results using Dagger Hilt, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture."
-     
-      - title: Bitbuckets
-        link: "https://github.com/kimhau/Bitbuckets"
-        tag: "Open Source Project"
-        tagline: "Android bitbucket list using Hilt, Coroutines, Flow, ViewModel based on MVVM architecture."
+  - degree: Bachelor of Computer Science (Honours)
+    university: Universiti Sains Malaysia
+    time: Sep 2012 – Aug 2016
+    details: |
+      Cumulative GPA: 3.44 / 4.00
+        - Major: Intelligent Systems
+        - Elective: Information System Engineering
 
-      - title: Flutter Bitbuckets
-        link: "https://github.com/kimhau/Flutter-Bitbuckets"
-        tag: "Open Source Project"
-        tagline: "Flutter(Android/ios) bitbucket list using GetX."
+experiences:
+  - role: Frontend Engineer
+    time: Oct 2021 - Present
+    company: IBM
+    details: |+
+      - As a frontend developer specialized in React and React Native, I have experience in creating and maintaining interactive user interfaces that are fast, responsive, and scalable. In my role, I have worked closely with product owners, designers, and other developers to ensure that the mobile and web applications I build meet user requirements and exceed expectations.
+        - Expertise in React and React Native.
+        - Proficiency in TypeScript.
+        - Experience with Redux Toolkit for state management and API calls.
+        - Practiced Scrum and used Jira for project management.
+        - Mentored junior developers and provided technical guidance and support.
+
+  - role: Software Engineer (Android)
+    time: Jan 2017 - Sep 2022
+    company: Digital Forge Pte. Ltd.
+    details: |+
+      - Flutter
+        - Developing a Golf Training app which use Wrnch as a service to analyses golfer movement. Use Cognito for authorization and authentication, S3 to store video, Dynamo DB as database, Lambda and AWS API Gateway as cloud function, FFmpeg library to process video.
+
+      - Android (Java/ Kotlin)
+        - Developed prototype eWallet app which featured in currency exchange for an fintech company named Rapyd. Use Firebase authentication for authorization and authentication, use Twilio for SMS service, Firestore as database write Webhook trigger using Firebase cloud function, use Firebase cloud Messaging for push notification services.
+        - Maintained two existing ecommerce app. (enhance app security, prevent app running on root device, implement SSL Pinning, store keys in c++)
+        - Developed a Shopping app which transform user mall experience.
+        - Assist in integrated foot step counter and sync Google fit data to a health care app.
+
+      - React Native
+        - Developed an online shopping app named Mogozay for a Myanmar's trendy online marketplace
+        - Developed a membership reward app for a premium grocer
+        - Developed a mobile POS which allow waiter to carry an iPad to take order and collect payment.
+        - Developed a food ordering app which use by customer in restaurant to speed up food ordering process.
+
+      - Others
+        - Create backend using firebase/AWS 
+        - Use JIRA for project management and issue tracking.
+        - Use GitHub/ Gitlab as primary version control tool
+        - Use POSTMAN, Chales Proxy for API testing (restful and soap)
+projects:
+  title: Projects
+  # intro: >
+  #   You can list your side projects or open source libraries in this
+  #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  assignments:
+    - title: 4DResults
+      link: "https://github.com/kimhau/4DResults"
+      tag: "Open Source Project"
+      tagline: "A demo project for Malaysia's 4D results using Dagger Hilt, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture."
+
+    - title: Bitbuckets
+      link: "https://github.com/kimhau/Bitbuckets"
+      tag: "Open Source Project"
+      tagline: "Android bitbucket list using Hilt, Coroutines, Flow, ViewModel based on MVVM architecture."
+
+    - title: Flutter Bitbuckets
+      link: "https://github.com/kimhau/Flutter-Bitbuckets"
+      tag: "Open Source Project"
+      tagline: "Flutter(Android/ios) bitbucket list using GetX."
 
 # publications:
 #     title: Publications
@@ -132,29 +135,22 @@ projects:
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Flutter
-        level: 100%
+  toolset:
+    - name: React native
+      level: 100%
 
-      - name: Android
-        level: 98%
+    - name: Android
+      level: 88%
 
-      - name: Java
-        level: 80%
+    - name: AWS
+      level: 75%
 
-      - name: Kotlin
-        level: 75%
+    - name: Flutter
+      level: 100%
 
-      - name: Firebase
-        level: 70%
-
-      - name: Firebase
-        level: 65%
-
-      - name: React native
-        level: 60%
-
+    - name: Firebase
+      level: 65%
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
