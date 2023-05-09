@@ -112,6 +112,16 @@ projects:
       tag: "Open Source Project"
       tagline: "Flutter(Android/ios) bitbucket list using GetX."
 
+    - title: WordPuzzle
+      link: "https://github.com/kimhau/WordPuzzle"
+      tag: "Open Source Project"
+      tagline: "React native(Android/ios) word puzzle."
+
+    - title: Wedding e-invite
+      link: "https://kh-yq-wedding.kimhau.net/"
+      tag: "Open Source Project"
+      tagline: "An actual e-invite for my wedding!"
+
 # publications:
 #     title: Publications
 #     intro: |
@@ -151,6 +161,9 @@ skills:
       level: 65%
 
     - name: Firebase
+      level: 65%
+
+    - name: Photoshop
       level: 65%
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
